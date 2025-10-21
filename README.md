@@ -1,1 +1,1 @@
-A resistor calculator that cslculate the resistane of a resistor.
+A resistor calculator that calculate the resistane of a resistor.
